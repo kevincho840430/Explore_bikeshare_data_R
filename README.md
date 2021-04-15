@@ -1,17 +1,25 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+16th of April, 2021
 
 ### Project Title
-Replace the Project Title
+Explore_bikeshare_data_r
+
 
 ### Description
-Describe what your project is about and what it does
+In this project, I'll make use of R to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I'll write code to import the data and answer interesting questions about it by computing descriptive statistics and making visualizations!.
+
+Bike Share Data Details: Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
 ### Files used
-Include the files used
+The dataset used in the project was provided by Motivate - https://www.motivateco.com/
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you Udacity for providing the course and the necessary material for me to develop this project.
 
+Sources of help and inspiration:
+
+https://stackoverflow.com/questions/21323692/convert-seconds-to-weeks-days-hours-minutes-seconds-in-python
+
+https://docs.python.org/3/tutorial/inputoutput.html
